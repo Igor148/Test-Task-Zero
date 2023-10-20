@@ -14,7 +14,7 @@ A starter theme called Test Task Zero.
 
 == Description ==
 
-Description
+Test Task
 
 == Installation ==
 
